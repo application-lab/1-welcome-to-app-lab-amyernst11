@@ -1,8 +1,8 @@
 # About Me
-Hello! My name is Amy and I am from Dallas, Texas. I am a senior studying environmental health, but I also have other interests in languages, ceramics, sciences, and dance. I studied abroad in Buenos Aires, Argentina and Accra, Ghana. I traveled and learned about different parts of the world and how culture can shape different view points and opinions. I do not know exactly what I want to do with my life yet, but surprisingly I am not as nervous about it as I used to be. **Bring it on future!**
+Hello! My name is Amy and I am from Dallas, Texas. I am a senior studying environmental health, but I also have other interests in languages, ceramics, sciences, and dance. I studied abroad in Buenos Aires, Argentina and Accra, Ghana. I traveled and learned about different parts of the world and how culture can shape different points of view and opinions. I do not know exactly what I want to do with my life yet, but surprisingly I am not as nervous about it as I used to be. **Bring it on future!**
 
 # Random Facts
-- In 2016 I won World of Dance with my crew at the competition in Dallas.
+- In 2016 I won World of Dance with my crew at the competition in Dallas. You can see it [here](//https://www.youtube.com/watch?v=91H82IMmY78)
 - I can roll my tongue into a *clover*.
 - My sister and I got tattoos together.
 - Noodles are my favorite food **!!!**
