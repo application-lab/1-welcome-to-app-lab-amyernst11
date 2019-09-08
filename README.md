@@ -1,23 +1,12 @@
-# Assignment 1: Welcome to App Lab
-Due Wednesday, September 11 
-
-# Instructions
-1. Clone this repository to your local computer (hint: use the terminal and the `git clone` command).
-2. Open the `welcome-to-app-lab-yourgithubusername` folder in vscode.
-3. Open the the file `README.md`.
-4. Replace the **About Me** section with your own. I've included my own as a template.
-5. Delete the **Assignment** and **Instructions** sections.
-7. `git push` your changed file - this is your assignment submission (don't forget a `commit` message)!
- 
-Be sure and use [markdown](https://medium.com/applab-fall-2019/homework-1-github-bootcamp-bb21077a878b) to help format your document. You can study this document and how it appears on Github to learn more.
-
 # About Me
-Hello! My name is Christian and I live in Shanghai, China. I spend time exploring the intersections of management, creativity, art and technology. I have a lot of ideas and I make a lot of stuff: messaging apps, cryptocurrency hardware, virtual reality games and educational content. I teach students at NYU Shanghai with the goal of helping them understand the intersection of ideas and realities.
+Hello! My name is Amy and I am from Dallas, Texas. I am a senior studying environmental health, but I also have other interests in languages, ceramics, sciences, and dance. I studied abroad in Buenos Aires, Argentina and Accra, Ghana. I traveled and learned about different parts of the world and how culture can shape different view points and opinions. I do not know exactly what I want to do with my life yet, but surprisingly I am not as nervous about it as I used to be. **Bring it on future!**
 
-I'm a founding member of NYU Shanghai, China's first Sino-American university. I was on the ground floor putting in the plumbing, and was initially responsible for planning and operations to establish the school in Shanghai. Currently I'm teaching and researching full time, while continuing to build interesting products and art in my spare time.
+# Random Facts
+- In 2016 I won World of Dance with my crew at the competition in Dallas.
+- I can roll my tongue into a *clover*.
+- My sister and I got tattoos together.
+- Noodles are my favorite food **!!!**
 
-My diverse skill set lends itself well to small, nimble teams. I pride myself on my ability to take risks to create new things. I work efficiently, play multiple roles and speak many languages (programming, business, Chinese). I know enough about most things to sound like an expert on technology, project management, software engineering, digital prototyping, corporate and venture finance, capital markets, macroeconomics and the Chinese innovation ecosystem.
-
-
-
-
+# Fun Quote
+*“Instead of worrying about what you cannot control, shift your energy to what you can create.”*
+― Roy T. Bennett, The Light in the Heart 
